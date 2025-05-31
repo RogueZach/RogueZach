@@ -21,9 +21,6 @@
   <img alt="Jekyll" src ="https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff"/>
   <h4>:mag: Other :mag:</h4>
   <br/>
-  <img alt="RabbitMQ" src ="https://img.shields.io/badge/RabbitMQ-FF6600?&style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
-  <img alt="Celery" src ="https://img.shields.io/badge/Celery-37814A?&style=for-the-badge&logo=Celery&logoColor=white"/>
-  <br/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
   <img alt="GithubActions" src ="https://img.shields.io/badge/GithubActions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
   <img alt="AmazonAWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
