@@ -4,7 +4,7 @@
   <h2>📚 Tech Stack 📚</h2>
   <h4>:pencil: Language :pencil:</h4>
   <img alt="Python" src ="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="JAVA" src ="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="C++" src ="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
   <h4>:open_file_folder: Database :open_file_folder:</h4>
   <br/>
   <img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
