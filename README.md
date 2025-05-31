@@ -11,15 +11,14 @@
   <img alt="SupaBase" src ="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"/>
   <h4>:low_brightness: Framework :low_brightness:</h4>
   <br/>
-  <img alt="Spring" src ="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img alt="Django" src ="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="Flask" src ="https://img.shields.io/badge/flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Hugo" src ="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff"> 
+  <img alt="Jekyll" src ="https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff"/>
   <h4>:mag: Other :mag:</h4>
   <br/>
   <img alt="RabbitMQ" src ="https://img.shields.io/badge/RabbitMQ-FF6600?&style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
   <img alt="Celery" src ="https://img.shields.io/badge/Celery-37814A?&style=for-the-badge&logo=Celery&logoColor=white"/>
   <br/>
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
   <img alt="GithubActions" src ="https://img.shields.io/badge/GithubActions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
   <img alt="AmazonAWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
   <img alt="Nginx" src ="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
@@ -32,11 +31,9 @@
   <br/>
   <h2>🛠 Tool 🛠</h2>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
-  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+  <img alt="Obsidian" src ="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white"/>
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img alt="Postman" src ="https://img.shields.io/badge/PostMan-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
   <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-  <img alt="Gitkraken" src ="https://img.shields.io/badge/GITKRAKEN-179287.svg?&style=for-the-badge&logo=GITKRAKEN&logoColor=white"/>
 </div>
 <hr/>
 <br/>
