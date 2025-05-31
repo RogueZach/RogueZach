@@ -5,9 +5,11 @@
   <h4>:pencil: Language :pencil:</h4>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/> 
   <img alt="C++" src ="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
+  <img alt="HTML" src ="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <h4>:open_file_folder: Database :open_file_folder:</h4>
   <br/>
-  <img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MySQL" src =""/>
   <img alt="SupaBase" src ="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"/>
   <h4>:low_brightness: Framework :low_brightness:</h4>
   <br/>
@@ -30,10 +32,12 @@
   <br/>
   <br/>
   <h2>🛠 Tool 🛠</h2>
-  <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
+  <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
   <img alt="Obsidian" src ="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white"/>
-  <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+  <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+  <img alt="VSCode" src ="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+  <img alt="Framer" src ="https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff"/>
+
 </div>
 <hr/>
 <br/>
