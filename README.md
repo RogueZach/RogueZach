@@ -22,16 +22,7 @@
   <h4>:mag: Other :mag:</h4>
   <br/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
-  <img alt="GithubActions" src ="https://img.shields.io/badge/GithubActions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
-  <img alt="AmazonAWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-  <img alt="Nginx" src ="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
-  <br/>
-  <img alt="Grafana" src ="https://img.shields.io/badge/Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white"/>
-  <img alt="Prometheus" src ="https://img.shields.io/badge/Prometheus-E6522C?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-  <img alt="Elastic-Stack" src ="https://img.shields.io/badge/Elastic_Stack-005571?&style=for-the-badge&logo=Elastic-Stack&logoColor=white"/>
-  <br/>
-  <br/>
-  <br/>
+  <img alt="GithubActions" src ="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
   <h2>🛠 Tool 🛠</h2>
   <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
   <img alt="Obsidian" src ="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white"/>
