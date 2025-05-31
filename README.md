@@ -3,7 +3,7 @@
 <div align="center">
   <h2>📚 Tech Stack 📚</h2>
   <h4>:pencil: Language :pencil:</h4>
-  <img alt="Python" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/> 
   <img alt="C++" src ="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
   <h4>:open_file_folder: Database :open_file_folder:</h4>
   <br/>
