@@ -8,8 +8,7 @@
   <h4>:open_file_folder: Database :open_file_folder:</h4>
   <br/>
   <img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/mongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
-  <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=Redis&logoColor=white"/>
+  <img alt="SupaBase" src ="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"/>
   <h4>:low_brightness: Framework :low_brightness:</h4>
   <br/>
   <img alt="Spring" src ="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
