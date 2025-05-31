@@ -2,6 +2,11 @@
 
 <div align="center">
   <h2>📚 Tech Stack 📚</h2>
+  <img alt="Windows" src ="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/> 
+  <img alt="MacOS" src ="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/> 
+  <img alt="IOS" src ="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white"/> 
+  <img alt="Fedora" src ="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff"/> 
+  
   <h4>:pencil: Language :pencil:</h4>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/> 
   <img alt="C++" src ="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
