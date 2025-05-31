@@ -7,7 +7,7 @@
   <img alt="IOS" src ="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white"/> 
   <img alt="Fedora" src ="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff"/> 
   
-  <h4>:pencil: Language :pencil:</h4>
+  <h4>:paperclip: Language :pencil:</h4>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/> 
   <img alt="C++" src ="https://img.shields.io/badge/-C++-blue?logo=cplusplus"/>
   <img alt="HTML" src ="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
