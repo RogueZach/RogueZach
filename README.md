@@ -9,7 +9,6 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <h4>:open_file_folder: Database :open_file_folder:</h4>
   <br/>
-  <img alt="MySQL" src =""/>
   <img alt="SupaBase" src ="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"/>
   <h4>:low_brightness: Framework :low_brightness:</h4>
   <br/>
