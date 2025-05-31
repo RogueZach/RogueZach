@@ -6,7 +6,7 @@
   <img alt="MacOS" src ="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0"/> 
   <img alt="IOS" src ="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white"/> 
   <img alt="Fedora" src ="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff"/> 
-  <h4>:paperclip: Language :paperclip:</h4>
+  <h4>:paperclip: Package Management (Enterprise deployment) :paperclip:</h4>
   <img alt="Chocolately" src ="https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff"/> 
   <img alt="Hombrew" src ="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"/>
   <h4>:pencil: Language :pencil:</h4>
