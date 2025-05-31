@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=RogueZach's&nbsp;Profile&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Zach's&nbsp;Profile&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
 
 <div align="center">
   <h2>📚 Tech Stack 📚</h2>
